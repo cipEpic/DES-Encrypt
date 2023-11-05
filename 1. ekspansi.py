@@ -22,14 +22,14 @@ def xor(bitstring1, bitstring2):
         result += '1' if b1 != b2 else '0'
     return result
 
-# Data awal (L0 dan R0)
-R0 = "10000101000110101110001110100111"
+# Input Data R1-R16
+Ri = "10000101000110101110001110100111"
 
-# Kunci K1-K16 - Masukkan kunci Anda di sini (pastikan panjang 48 bit)
+# Input Kunci K1-K16
 keys = "101000001001001000100010001010110111001001000110"
 
 # Lakukan Ekspansi pada Ri
-expanded_R = expansion(R0)
+expanded_R = expansion(Ri)
 
 
 # XOR dengan kunci Ki

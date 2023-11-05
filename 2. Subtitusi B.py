@@ -58,7 +58,7 @@ s_boxes = [
     ]
 ]
 
-# Input vektor Ai
+# Input vektor Ai A1-A16
 Ai = "011000000011101011010111010110110000111101001001"
 
 # Bagi vektor Ai menjadi 8 blok 6-bit

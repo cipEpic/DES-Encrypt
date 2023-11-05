@@ -1,7 +1,7 @@
-# Vektor P(Bi)
+# Vektor P(Bi) (P(B1)-P(B16))
 P_Bi = "00101111001011101111010111011010"
 
-# Vektor Li-1
+# Vektor Li-1 (L1-L16)
 Li_1 = "01110100101110011001000011111011"
 
 
@@ -13,8 +13,7 @@ def xor(bitstring1, bitstring2):
     return result
 
 
-
-# XOR dengan kunci Ki
+# XOR P(Bi) dengan Li untuk mendapatkan Ri
 R = xor(P_Bi, Li_1)
 
 print(f"Print Ri = {R}")

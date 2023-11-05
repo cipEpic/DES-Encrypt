@@ -1,6 +1,6 @@
 # kemudian B1 dipermutasi menggunakan matriks permutasi dan menjadi P(B1)
 
-# Vektor Bi (contoh vektor Bi)
+# Vektor Bi (B1-B16)
 Bi = "01011101100111001111011100111010"
 
 # Tabel P-Box
