@@ -15,8 +15,8 @@ Bentuk Pengumpulan :
 
 # Alur code
 1. digunakan dari step I-IV 
-2. kemudian dilanjutkan step 1-4 sehingga mendapat R16 
+2. kemudian dilanjutkan step 1-4
 3. kemudian ketika R16 dan L16 sudah didapatkan maka jalankan step 5 
 
 # Notes
-Penting diketahui bahwa untuk mendapatkan nilai vektor Matriks Ai memerlukan Ri sehingga untuk mendapatkan Ai selanjutnya step 1-4 dijalankan berurut sebanyak 16x sehingga akan mendapat nilai R secara berurut
+Penting diketahui bahwa untuk mendapatkan nilai vektor Matriks Ai kita memerlukan Ri. Untuk mendapatkan Ai selanjutnya, step 1-4 dijalankan berurut sebanyak 16x sehingga akan mendapat 1 nilai Ai dan Ri secara berurut di setiap perputaran (step 1-4) dilakukan.
