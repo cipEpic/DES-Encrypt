@@ -1,0 +1,7 @@
+langkah 5
+melakukan ekspansi dari r0
+hasil ekspansi r0 di xor sama k1 menghasilkan vektor matriks A1
+matriks A1 di subtitusi menghasilkan B1
+kemudian B1 dipermutasi menggunakan matriks permutasi dan menjadi P(B1)
+Hasil P(B1) nanti di XOR dengan L0 untuk dapat R1
+Nilai Li didapat dari nilai Ri-1untuk nilai 1<=i<=16
